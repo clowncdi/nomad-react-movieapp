@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/nomad-react-movieapp/static/js/main.96977d2b.js",
+    "main.css": "/nomad-react-movieapp/static/css/main.ea81bd6e.css",
+    "main.js": "/nomad-react-movieapp/static/js/main.e1a7f895.js",
     "index.html": "/nomad-react-movieapp/index.html",
-    "main.96977d2b.js.map": "/nomad-react-movieapp/static/js/main.96977d2b.js.map"
+    "main.ea81bd6e.css.map": "/nomad-react-movieapp/static/css/main.ea81bd6e.css.map",
+    "main.e1a7f895.js.map": "/nomad-react-movieapp/static/js/main.e1a7f895.js.map"
   },
   "entrypoints": [
-    "static/js/main.96977d2b.js"
+    "static/css/main.ea81bd6e.css",
+    "static/js/main.e1a7f895.js"
   ]
 }
