@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nomad-react-movieapp/static/js/main.4f8097a1.js",
+    "main.js": "/nomad-react-movieapp/static/js/main.96977d2b.js",
     "index.html": "/nomad-react-movieapp/index.html",
-    "main.4f8097a1.js.map": "/nomad-react-movieapp/static/js/main.4f8097a1.js.map"
+    "main.96977d2b.js.map": "/nomad-react-movieapp/static/js/main.96977d2b.js.map"
   },
   "entrypoints": [
-    "static/js/main.4f8097a1.js"
+    "static/js/main.96977d2b.js"
   ]
 }
